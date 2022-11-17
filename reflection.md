@@ -1,5 +1,5 @@
 Use this file to record your reflection on this assignment.
 
-- Tell me about your class! What does it represent?
-- What additional methods (if any) did you implement alongside those listed in the interface?
-- What worked, what didn't, what advice would you give someone taking this course in the future?
+- Tell me about your class! What does it represent? What additional methods (if any) did you implement alongside those listed in the interface? - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+    Some areas - like the door storyline - are still unfinished. I would suggest future students to try making a game. It works well with the methods from Contract! We created a class that models Alice in Wonderland. There are methods that allow you to drink and eat which replenish the users health points. There is a method that creates a simple conversation with the purple caterpillar. There is a method that investigates the area that the user is at in the map and lets them know if they can use further methods. There is a method that allows the user to fly if they have obtained the magic mushrooms. There is a toString method that lets the uder know their characters status.
